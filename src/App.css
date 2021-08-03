@@ -22,6 +22,11 @@ body {
   font-size: 18px;
 }
 
+.todo-item {
+  vertical-align: middle;
+  padding-top: 0.8rem;
+}
+
 .todo-app h1 {
   text-align: center;
   font-weight: 600;
@@ -45,7 +50,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 2px solid #fff;
+  border: 2px solid #b9b7bd;
   padding-left: 1rem;
 }
 
